@@ -93,13 +93,14 @@ These findings illustrate how statistical models can support decision-making in 
 ---
 
 ## Project Structure
+```
 clinical-trial-biomarker-analysis/
-- data/        (Simulated datasets)
-- R/           (Analysis scripts)
-- report/      (Tables and figures)
-- app/         (Shiny dashboard)
-- README.md
-
+├── data/ # Simulated datasets
+├── R/ # Analysis scripts
+├── report/ # Tables and figures
+├── app/ # Shiny dashboard
+└── README.md
+```
 ---
 
 ## Reproducibility
