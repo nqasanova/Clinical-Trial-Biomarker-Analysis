@@ -72,10 +72,10 @@ An interactive Shiny dashboard was developed for dynamic exploration of biomarke
 ## Example Outputs
 
 ### Biomarker 1
-![Biomarker 1](report/biomarker_1.jpeg)
+![Biomarker 1](report/biomarker_1_plot.jpeg)
 
 ### Biomarker 2
-![Biomarker 2](report/biomarker_2.jpeg)
+![Biomarker 2](report/biomarker_2_plot.jpeg)
 
 ---
 
