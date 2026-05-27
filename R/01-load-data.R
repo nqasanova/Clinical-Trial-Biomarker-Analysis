@@ -1,7 +1,7 @@
-# Load libraries ---------------------------
+# Load libraries 
 library(tidyverse)
 
-# Simulate clinical dataset ---------------------------
+# Simulate clinical dataset
 set.seed(123)
 
 n_patients <- 200
@@ -18,8 +18,8 @@ clinical_data <- tibble(
   outcome = rbinom(n_patients, 1, 0.5)
 )
 
-# Save data ---------------------------
+# Save data
 write_csv(clinical_data, "data/clinical_data.csv")
 
-# Preview ---------------------------
+# Preview 
 head(clinical_data)
